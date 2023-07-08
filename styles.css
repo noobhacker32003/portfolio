@@ -129,3 +129,22 @@ main{
     font-size: 30px;
     font-weight: 700;
 }
+.resu_con{
+    display: flex;
+}
+.resu-item-des, .resu-item-inst{
+    color: #757575;
+}
+.resu-item-title{
+    font-size: 25px;
+    color: #757575; 
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.resu-con hr{
+    margin: 30px ;
+}
+.resu-item-inst{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
